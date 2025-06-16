@@ -3,9 +3,9 @@ Professional data portfolio showcasing analytics projects and visualization
 
 # 👋 Hi, I'm Antonius Oktavian Tanianto
 
-### 🚀 IT Professional → Data Analyst | Transforming Business Operations Through Data-Driven Insights
+### 🚀 Aspiring Data Analyst | Transforming Data into Actionable Business Insights
 
-> *"Bridging technology and business strategy through powerful data analytics"*
+> *"Turning complex data into simple, powerful stories that drive business decisions"*
 
 ---
 
@@ -14,9 +14,9 @@ Professional data portfolio showcasing analytics projects and visualization
 **Current Role:**  IT Process Professional at PT. Pratama Intercipta  
 **Target Position:** Data Analyst in E-commerce/Tech Industry  
 **Location:** Tangerang, Indonesia 📍  
-**Career Goal:** Leveraging my IT background to drive business growth through advanced data analytics
+**Career Goal:** Transitioning into data analytics to leverage data for strategic business growth
 
-Experienced IT professional transitioning into data analytics, bringing unique perspectives on system optimization, process improvement, and technical problem-solving. Passionate about turning complex data into strategic business insights.
+I'm passionate about uncovering insights from data and translating them into actionable business recommendations. With a strong foundation in analytical thinking and business acumen, I'm actively building my technical skills in data analysis, visualization, and statistical modeling.
 ---
 
 ## 🛠️ Technical Skills
@@ -113,8 +113,10 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 <div align="center">
 
-💡 **"Data is the new oil, but insights are the refined fuel that powers business growth"** <br/>
-**🔍 Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact** <br />
+### 💡 *"Data is the new oil, but insights are the refined fuel that powers business growth"*
+
+**🔍 Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**
+
 ⭐ **If you find my work interesting, please star this repository!** ⭐
 
 </div>
