@@ -115,7 +115,7 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 
 <div align="center">
- 💡 <bold>"Data is the new oil, but insights are the refined fuel that powers business growth"</bold>
+ 💡 <bold>"Data is the new oil, but insights are the refined fuel that powers business growth"</bold>  
 
 🔍 <bold>Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**</bold>
 
