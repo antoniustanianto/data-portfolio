@@ -113,7 +113,7 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 -->
 ---
 
-<div align="center">
+
 
 ### 💡 *"Data is the new oil, but insights are the refined fuel that powers business growth"*
 
@@ -121,7 +121,7 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 ⭐ **If you find my work interesting, please star this repository!** ⭐
 
-</div>
+
 
 ---
 
