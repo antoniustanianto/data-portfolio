@@ -7,7 +7,6 @@
 ---
 
 ## 🎯 About Me
-**Education:** Informatics Engineering, Magister Management  
 **Current Role:** IT Process Professional at PT. Pratama Intercipta  
 **Target Position:** Data Analyst in E-commerce/Tech Industry  
 **Location:** Tangerang, Indonesia 📍  
