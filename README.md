@@ -1,6 +1,3 @@
-# data-portfolio
-Professional data portfolio showcasing analytics projects and visualization
-
 # 👋 Hi, I'm Antonius Oktavian Tanianto
 
 ### 🚀 Aspiring Data Analyst | Transforming Data into Actionable Business Insights
@@ -10,13 +7,14 @@ Professional data portfolio showcasing analytics projects and visualization
 ---
 
 ## 🎯 About Me
-**Education:** Informatics Engineering, Magister Management 
-**Current Role:**  IT Process Professional at PT. Pratama Intercipta  
+**Education:** Informatics Engineering, Magister Management  
+**Current Role:** IT Process Professional at PT. Pratama Intercipta  
 **Target Position:** Data Analyst in E-commerce/Tech Industry  
 **Location:** Tangerang, Indonesia 📍  
 **Career Goal:** Transitioning into data analytics to leverage data for strategic business growth
 
 I'm passionate about uncovering insights from data and translating them into actionable business recommendations. With a strong foundation in analytical thinking and business acumen, I'm actively building my technical skills in data analysis, visualization, and statistical modeling.
+
 ---
 
 ## 🛠️ Technical Skills
@@ -34,8 +32,8 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ### **Core Competencies**
 - 📊 **Statistical Analysis** - Descriptive & inferential statistics
-- 💻 **Database Management** - SQL querying & data modeling
 - 🔍 **Data Mining** - Pattern recognition and trend analysis  
+- 📈 **Business Intelligence** - KPI development and performance metrics
 - 🎯 **Customer Analytics** - Segmentation and behavioral analysis
 - 📋 **Data Storytelling** - Translating insights into business recommendations
 
@@ -85,20 +83,14 @@ I'm passionate about uncovering insights from data and translating them into act
 ### **🎯 Business-First Mindset**
 I don't just analyze data—I solve business problems. Every analysis I conduct is driven by business objectives and results in actionable recommendations.
 
-### **🔧 IT Background Advantage**
-My IT process experience provides deep understanding of system integrations, data pipelines, and technical infrastructure—crucial for modern data analytics roles.
-
 ### **📊 End-to-End Capabilities**
 From data collection and cleaning to advanced analysis and compelling visualizations, I handle the complete data analysis pipeline.
 
 ### **🚀 Growth-Oriented**
-As a career changer, I bring fresh perspectives, high motivation, and transferable skills from my previous experience in IT Support.
+As a career changer, I bring fresh perspectives, high motivation, and transferable skills from my previous experience in [previous field].
 
 ### **🤝 Collaborative Approach**
 I excel at communicating complex findings to both technical and non-technical stakeholders, ensuring insights drive real business action.
-
-### **🚀 Proven Adaptability**
-Successfully transitioning from IT to analytics demonstrates my ability to learn quickly and apply new skills effectively.
 
 ---
 
@@ -108,7 +100,17 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 - 💼 LinkedIn
 - 📧 Email: antoniustanianto@gmail.com
-  
+
+<!--
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-url)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](your-tableau-url)
+
+</div>
+-->
 ---
 
 <div align="center">
