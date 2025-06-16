@@ -98,8 +98,8 @@ I excel at communicating complex findings to both technical and non-technical st
 
 I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/antonius-tanianto-17944641/)
-- 📧 Email: antoniustanianto@gmail.com
+- 💼 **[LinkedIn]**(https://www.linkedin.com/in/antonius-tanianto-17944641/)
+- 📧 **Email:** antoniustanianto@gmail.com
 
 <!--
 <div align="center">
