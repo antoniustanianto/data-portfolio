@@ -98,10 +98,13 @@ I excel at communicating complex findings to both technical and non-technical st
 
 I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.
 
-- 💼 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/antonius-tanianto-17944641/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniustanianto@gmail.com)
+<!--
+- 💼 [LinkedIn](https://www.linkedin.com/in/antonius-tanianto-17944641/)
 - 📧 Email: antoniustanianto@gmail.com
 
-<!--
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
@@ -115,9 +118,9 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 
 <h3 align="center">
- 💡 <bold>"Data is the new oil, but insights are the refined fuel that powers business growth"</bold><br/>  
+ 💡 <bold>"Data is the new oil, but insights are the refined fuel that powers business growth"</bold><br/><br/>  
 
-🔍 <bold>Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**</bold><br/>
+🔍 <bold>Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**</bold><br/><br/>
 
 ⭐ <bold>If you find my work interesting, please star this repository!** ⭐</bold>
 </h3>
