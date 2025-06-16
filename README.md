@@ -72,7 +72,7 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ### **Certifications & Courses**
 - 🏅 Currently enrolled in: Hands On Data Portfolio by M Fauzan S Nugraha
-- 🏅 Mini Bootcamp Data Analyst Mini Bootcamp by M Fauzan S Nugraha
+- 🏅 Currently enrolled in: Mini Bootcamp Data Analyst Mini Bootcamp by M Fauzan S Nugraha
 - 🏅 Mini Bootcamp Data to Actionable Insight by M Fauzan S Nugraha *(Completed)*
 - 🏅 Excel dari NOL. Belajar dari Dasar Hingga Membuat Dashboard User Avatar by Allesandro Yudo A *(Completed)*
 
