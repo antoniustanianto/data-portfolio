@@ -96,15 +96,12 @@ I excel at communicating complex findings to both technical and non-technical st
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.
+I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.  
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/antonius-tanianto-17944641/)
-[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:antoniustanianto@gmail.com)
-<!--
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonius-tanianto-17944641/)
 - 📧 Email: antoniustanianto@gmail.com
 
-
+<!--
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
