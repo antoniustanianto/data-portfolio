@@ -108,17 +108,16 @@ I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. 
 
 - 💼 LinkedIn
 - 📧 Email: antoniustanianto@gmail.com
-test
+  
 ---
 
 <div align="center">
 
-### 💡 *"Data is the new oil, but insights are the refined fuel that powers business growth"*
+# > 💡 *"Data is the new oil, but insights are the refined fuel that powers business growth"*
 
+# > **🔍 Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**
 
-### **🔍 Open to opportunities | 📧 Available for interviews | 🚀 Ready to make an impact**
-
-⭐ **If you find my work interesting, please star this repository!** ⭐
+# >⭐ **If you find my work interesting, please star this repository!** ⭐
 
 </div>
 
