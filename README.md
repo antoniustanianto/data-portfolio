@@ -1,7 +1,7 @@
 # data-portfolio
 Professional data portfolio showcasing analytics projects and visualization
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Antonius Oktavian Tanianto
 
 ### 🚀 Aspiring Data Analyst | Transforming Data into Actionable Business Insights
 
@@ -10,10 +10,10 @@ Professional data portfolio showcasing analytics projects and visualization
 ---
 
 ## 🎯 About Me
-
-**Current Role:** [Your Current Position] at [Company Name]  
+**Education:** Informatics Engineering, Magister Management 
+**Current Role:** IT Specialist at PT. Pratama Intercipta  
 **Target Position:** Data Analyst in E-commerce/Tech Industry  
-**Location:** [Your City, Country] 📍  
+**Location:** Banten, Indonesia 📍  
 **Career Goal:** Transitioning into data analytics to leverage data for strategic business growth
 
 I'm passionate about uncovering insights from data and translating them into actionable business recommendations. With a strong foundation in analytical thinking and business acumen, I'm actively building my technical skills in data analysis, visualization, and statistical modeling.
@@ -30,14 +30,12 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ### **Data Visualization**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### **Core Competencies**
 - 📊 **Statistical Analysis** - Descriptive & inferential statistics
 - 🔍 **Data Mining** - Pattern recognition and trend analysis  
-- 📈 **Business Intelligence** - KPI development and performance metrics
 - 🎯 **Customer Analytics** - Segmentation and behavioral analysis
 - 📋 **Data Storytelling** - Translating insights into business recommendations
 
@@ -48,51 +46,21 @@ I'm passionate about uncovering insights from data and translating them into act
 ### 📊 [Project 1: E-commerce Sales Performance Dashboard](link-to-project)
 **Tech Stack:** `Python` `SQL` `Tableau` `Pandas`
 
-**Business Challenge:** Analyze 50K+ sales transactions to identify revenue opportunities and optimize marketing strategies for an e-commerce platform.
-
-**Key Achievements:**
-- 📈 Identified 23% revenue increase opportunity through seasonal trend analysis
-- 🎯 Discovered top-performing product categories driving 65% of total revenue
-- 📍 Mapped geographic sales patterns revealing untapped markets
-- 💡 Provided actionable recommendations for inventory optimization
-
-**Business Impact:** Potential revenue increase of $2.3M annually through optimized product placement and targeted marketing campaigns.
-
-[**🔗 View Project**](link-to-project) | [**📊 Live Dashboard**](link-to-dashboard)
+**Status : In Progress** | [**🔗 View Project**](link-to-project) | [**📊 Live Dashboard**](link-to-dashboard)
 
 ---
 
 ### 👥 [Project 2: Customer Segmentation & RFM Analysis](link-to-project)
 **Tech Stack:** `Python` `SQL` `Scikit-learn` `Plotly`
 
-**Business Challenge:** Segment 15K+ customers based on purchase behavior to personalize marketing strategies and improve customer retention.
-
-**Key Achievements:**
-- 🔍 Implemented RFM analysis revealing 4 distinct customer segments
-- 💎 Identified VIP customers representing 15% of base but 45% of revenue
-- ⚠️ Detected at-risk customers with 78% churn prediction accuracy
-- 📋 Created targeted retention strategies for each segment
-
-**Business Impact:** Projected 18% increase in customer lifetime value through personalized marketing campaigns.
-
-[**🔗 View Project**](link-to-project) | [**📈 Interactive Analysis**](link-to-analysis)
+**Status : Planned** |[**🔗 View Project**](link-to-project) | [**📈 Interactive Analysis**](link-to-analysis)
 
 ---
 
 ### 🔮 [Project 3: Sales Forecasting Model](link-to-project)
 **Tech Stack:** `Python` `Time Series Analysis` `Prophet` `Matplotlib`
 
-**Business Challenge:** Build predictive model for sales forecasting to optimize inventory management and budget planning.
-
-**Key Achievements:**
-- 📊 Developed time series forecasting model with 89% accuracy
-- 📅 Predicted seasonal patterns with 94% precision for campaign planning
-- 💰 Identified optimal inventory levels reducing holding costs by 15%
-- 📈 Created automated forecasting pipeline for monthly business reviews
-
-**Business Impact:** Estimated $1.8M cost savings annually through optimized inventory management and reduced stockouts.
-
-[**🔗 View Project**](link-to-project) | [**🤖 Model Demo**](link-to-demo)
+**Status : Planned** |[**🔗 View Project**](link-to-project) | [**🤖 Model Demo**](link-to-demo)
 
 ---
 
@@ -107,16 +75,17 @@ I'm passionate about uncovering insights from data and translating them into act
 
 ## 🎓 Learning Journey
 
-### **Current Focus**
+### **Continous Learning**
 - 📚 Advanced SQL for data warehousing
 - 🤖 Machine learning fundamentals
-- ☁️ Cloud platforms (AWS/GCP) for data analytics
+- ☁️ Cloud platforms (GCP) for data analytics
 - 📊 Advanced statistical modeling
 
 ### **Certifications & Courses**
-- 🏅 Google Data Analytics Certificate *(In Progress)*
-- 🏅 Python for Data Science (Coursera) *(Completed)*
-- 🏅 SQL Fundamentals (DataCamp) *(Completed)*
+- 🏅 Currently enrolled in: Hands On Data Portfolio by M Fauzan S Nugraha
+- 🏅 Mini Bootcamp Data Analyst Mini Bootcamp by M Fauzan S Nugraha
+- 🏅 Mini Bootcamp Data to Actionable Insight by M Fauzan S Nugraha *(Completed)*
+- 🏅 Excel dari NOL. Belajar dari Dasar Hingga Membuat Dashboard User Avatar by Allesandro Yudo A *(Completed)*
 
 ---
 
@@ -129,7 +98,7 @@ I don't just analyze data—I solve business problems. Every analysis I conduct 
 From data collection and cleaning to advanced analysis and compelling visualizations, I handle the complete data analysis pipeline.
 
 ### **🚀 Growth-Oriented**
-As a career changer, I bring fresh perspectives, high motivation, and transferable skills from my previous experience in [previous field].
+As a career changer, I bring fresh perspectives, high motivation, and transferable skills from my previous experience in IT Support.
 
 ### **🤝 Collaborative Approach**
 I excel at communicating complex findings to both technical and non-technical stakeholders, ensuring insights drive real business action.
@@ -138,7 +107,7 @@ I excel at communicating complex findings to both technical and non-technical st
 
 ## 🤝 Let's Connect!
 
-I'm actively seeking **Data Analyst opportunities** in the e-commerce, tech, or FMCG industries. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.
+I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.
 
 <div align="center">
 
