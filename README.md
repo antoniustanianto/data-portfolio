@@ -106,12 +106,8 @@ Successfully transitioning from IT to analytics demonstrates my ability to learn
 
 I'm actively seeking **Data Analyst opportunities** in the e-commerce, or tech. I'd love to discuss how my analytical skills and business acumen can contribute to your team's success.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniustanianto@email.com)
-
-</div>
+- 💼 LinkedIn
+- 📧 Email: antoniustanianto@gmail.com
 
 ---
 
