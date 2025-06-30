@@ -1,14 +1,14 @@
-🏪 E-commerce Analytics with Modern Cloud Database
+**🏪 E-commerce Analytics with Modern Cloud Database**
 Project Overview
 Comprehensive e-commerce data analysis using Supabase (PostgreSQL) cloud database, demonstrating modern data stack capabilities for business intelligence and decision-making.
 
-🎯 Business Objectives
+**🎯 Business Objectives**
 Revenue Optimization: Identify growth opportunities and trends
 Customer Intelligence: Segment customers for targeted marketing
 Product Strategy: Optimize inventory and pricing decisions
 Geographic Expansion: Identify high-potential markets
 Operational Efficiency: Improve business processes through data
-🛠️ Technical Stack
+**🛠️ Technical Stack**
 Database: Supabase (PostgreSQL) - Modern cloud database
 Analysis: Advanced SQL with window functions, CTEs
 Visualization: Looker Data Studio
@@ -19,7 +19,7 @@ Version Control: GitHub for documentation
 5,000+ orders with realistic business patterns
 15,000+ order items with detailed transaction data
 Time range: 24 months of historical data
-🔍 Key Business Insights
+## 🔍 Key Business Insights
 Revenue Performance
 Total Revenue: Rp 360M over 12 months
 Monthly Growth: 8.5% average month-over-month
@@ -54,7 +54,7 @@ Expand electronics portfolio (highest demand)
 Optimize pricing for premium accessories
 Inventory management for long-tail products
 Cross-selling opportunities identification
-💻 Technical Implementation
+**💻 Technical Implementation**
 Database Design
 Normalized schema with proper relationships
 Performance indexes for analytical queries
@@ -78,7 +78,7 @@ Cost Optimization: 15% reduction in inventory holding costs
 🔗 Live Dashboard
 [Interactive Executive Dashboard](https://datastudio.google.com/your-dashboard](https://lookerstudio.google.com/reporting/a3b2ca15-5080-4b55-a849-4f4d0123a734)
 
-🏆 Skills Demonstrated
+**🏆 Skills Demonstrated**
 Modern cloud database management (Supabase/PostgreSQL)
 Advanced SQL analytics and optimization
 Business intelligence and data storytelling
